@@ -1,0 +1,79 @@
+{
+  "randomCode": "iwur5hq1",
+  "randomCodeHistory": [
+    {
+      "rc": "tqx97pz6",
+      "dir1": "cf-ip-data",
+      "dir2": "ip",
+      "prefix": ""
+    },
+    {
+      "rc": "h01",
+      "dir1": "cf-ip-data",
+      "dir2": "ip",
+      "prefix": ""
+    },
+    {
+      "rc": "iwur5hq1",
+      "dir1": "cf-ip-data",
+      "dir2": "ip",
+      "prefix": ""
+    }
+  ],
+  "tokenType": "fine",
+  "encryptedToken": "Up2UN5UcntGUBN1NMdlVyg0NyJEWMhHNqFXZahkROdFOYx2TwsWULt2VExGRWZUWjlmNXVWZEFFVEF1X1kUej1UMqRTaMV0Uwk0QXd1QXFUMx8FdhB3XiVHa0l2Z",
+  "channels": [
+    {
+      "id": 1,
+      "name": "电信宽带",
+      "builtIn": true
+    },
+    {
+      "id": 2,
+      "name": "移动宽带",
+      "builtIn": true
+    },
+    {
+      "id": 3,
+      "name": "电信5G",
+      "builtIn": true
+    }
+  ],
+  "github": {
+    "repo": "cf-ip-data",
+    "dir": "ip/",
+    "proxy": "https://gh-proxy.org",
+    "autoCreateRepo": true,
+    "branch": "main"
+  },
+  "validResults": [],
+  "selectedIps": [],
+  "historyRecords": [],
+  "uploadLog": {},
+  "customInput": "",
+  "privateUuid": "",
+  "privateDomain": "",
+  "privatePath": "/?ed=2560",
+  "adaptiveApi": "",
+  "privateSecurity": "none",
+  "privateType": "ws",
+  "privateEncryption": "none",
+  "privateFlow": "",
+  "privateAlpn": "",
+  "privateFp": "random",
+  "privateAllowInsecure": "1",
+  "privateDir1": "cf-ip-data",
+  "privateDir2": "ip",
+  "privateFilePrefix": "",
+  "scanSettings": {
+    "sourceV4": false,
+    "v4Slider": 2000,
+    "sourceV6": false,
+    "v6Slider": 1000,
+    "sourceCustom": true,
+    "expertToggle": false,
+    "threads": 0,
+    "connTimeout": 2500
+  },
+  "exportTime": 1777204175148
+}
