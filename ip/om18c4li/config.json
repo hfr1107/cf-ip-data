@@ -1,0 +1,59 @@
+{
+  "randomCode": "om18c4li",
+  "randomCodeHistory": [
+    {
+      "rc": "3o06z4av",
+      "dir1": "",
+      "dir2": "",
+      "prefix": "123",
+      "repo": "cf-ip-data"
+    },
+    {
+      "rc": "om18c4li",
+      "dir1": "",
+      "dir2": "",
+      "prefix": "123",
+      "repo": "cf-ip-data"
+    }
+  ],
+  "tokenType": "classic",
+  "encryptedToken": "Up2UN5UcntGUBN1NMdlVyg0NyJEWMhHNqFXZahkROdFOYx2TwsWULt2VExGRWZUWjlmNXVWZEFFVEF1X1kUej1UMqRTaMV0Uwk0QXd1QXFUMx8FdhB3XiVHa0l2Z",
+  "channels": [],
+  "github": {
+    "repo": "cf-ip-data",
+    "dir": "ip/",
+    "proxy": "https://gh-proxy.org",
+    "autoCreateRepo": true,
+    "branch": "main"
+  },
+  "validResults": [],
+  "selectedIps": [],
+  "historyRecords": [],
+  "uploadLog": {},
+  "customInput": "",
+  "privateUuid": "",
+  "privateDomain": "",
+  "privatePath": "/?ed=2560",
+  "adaptiveApi": "",
+  "privateSecurity": "none",
+  "privateType": "ws",
+  "privateEncryption": "none",
+  "privateFlow": "",
+  "privateAlpn": "",
+  "privateFp": "random",
+  "privateAllowInsecure": "1",
+  "privateDir1": "",
+  "privateDir2": "",
+  "privateFilePrefix": "123",
+  "scanSettings": {
+    "sourceV4": false,
+    "v4Slider": 2000,
+    "sourceV6": false,
+    "v6Slider": 1000,
+    "sourceCustom": true,
+    "expertToggle": false,
+    "threads": 0,
+    "connTimeout": 2500
+  },
+  "exportTime": 1777213725949
+}
